@@ -549,13 +549,13 @@ if detail:
 
         col1, col3, col5,  = st.columns([1,3,3])        
 
-        im1 = Image.open('MSE-İterations.png').resize((500,300))    
+        im1 = Image.open('./images/MSE-İterations.png').resize((500,300))    
         
     
-        im2 = Image.open('resim.png').resize((450,305))
+        im2 = Image.open('./images/totalbms_saleprice.png').resize((450,305))
         
         
-        im3 = Image.open('Boston.png')
+        im3 = Image.open('./images/oiriginal_predicted.png')
                 
        
 
