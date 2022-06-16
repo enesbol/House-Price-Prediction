@@ -66,9 +66,9 @@ data_pipeline = Pipeline([('sparse', SparseMatrix())])
 
 bst = xgb.Booster()
 
-bst.load_model('housepricexgb.model')
+bst.load_model('./model/housepricexgb.model')
 
-single_row = pd.read_csv('single_row.csv',index_col =0)
+single_row = pd.read_csv('./data/single_row.csv',index_col =0)
 
 if "load_state" not in st.session_state:
      st.session_state.load_state = False
