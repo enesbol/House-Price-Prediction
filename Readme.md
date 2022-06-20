@@ -1,5 +1,25 @@
 <h1 align="center">Customer Recommendation Project</h1>
-<h3 align=""left"">🛡️ Project Developers : </h3>
+
+
+
+## Description
+-This project is a part of K136. Kodluyoruz & Istanbul Metropolitan Municipality Data Science Bootcamp.The model is trying to estimate the house prices related to users choices.
+
+## Data
+The dataset is available at [Kaggle](https://www.kaggle.com/c/house-prices-advanced-regression-techniques).
+
+<h3 align="left">Project's Steps:</h3>
+  
+⚪️ Data was downloaded from kaggle and readed.
+  
+⚪️ Data is cleaned and get ready for model.
+
+⚪️ Data was trained with XGBoost Regression Model.
+ 
+⚪️ UI design with Streamlit
+  
+⚪️ Deploy with Streamlit Cloud
+  
 
 ## Contributions
 * Enes Bol - [Github](https://github.com/enesbol) - [LinkedIn](https://www.linkedin.com/in/enesbol/)
