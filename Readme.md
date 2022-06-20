@@ -1,4 +1,4 @@
-<h1 align="center">Customer Recommendation Project</h1>
+<h1 align="center">House Price Prediction Project</h1>
 
 
 https://share.streamlit.io/enesbol/streamlitrepo/main/HousePrice.py
