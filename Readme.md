@@ -1,7 +1,7 @@
 <h1 align="center">House Price Prediction Project</h1>
 
 
-https://share.streamlit.io/enesbol/streamlitrepo/main/HousePrice.py
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/enesbol/streamlitrepo/main/HousePrice.py)
 
 ## Description
 This project is a part of K136. Kodluyoruz & Istanbul Metropolitan Municipality Data Science Bootcamp.The model is trying to estimate the house prices related to users choices.
