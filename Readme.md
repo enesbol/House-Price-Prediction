@@ -32,6 +32,6 @@ The dataset is available at [Kaggle](https://www.kaggle.com/c/house-prices-advan
 * Yasin TARAKÇI - [Github](https://github.com/ysntrkc) - [LinkedIn](https://www.linkedin.com/in/yasintarakci)
 * Kumru ORKUN - [Github](https://github.com/kumruo) - [LinkedIn](https://www.linkedin.com/in/kumru-orkun-30848b198/)
 * M. Yavuz GÖKMEN - [Github](https://github.com/AbyssWatcher-17) - [LinkedIn](https://www.linkedin.com/in/myavuzgokmen)
-* Ömer Batuhan Özbay - [Github](https://github.com/kakan18) - [LinkedIn](https://www.linkedin.com/in/omerbatuhanozbay)
+
 
 
