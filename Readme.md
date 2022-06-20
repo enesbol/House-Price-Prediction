@@ -4,7 +4,7 @@
 https://share.streamlit.io/enesbol/streamlitrepo/main/HousePrice.py
 
 ## Description
--This project is a part of K136. Kodluyoruz & Istanbul Metropolitan Municipality Data Science Bootcamp.The model is trying to estimate the house prices related to users choices.
+This project is a part of K136. Kodluyoruz & Istanbul Metropolitan Municipality Data Science Bootcamp.The model is trying to estimate the house prices related to users choices.
 
 ## Data
 The dataset is available at [Kaggle](https://www.kaggle.com/c/house-prices-advanced-regression-techniques).
