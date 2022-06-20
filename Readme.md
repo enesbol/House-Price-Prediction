@@ -1,6 +1,7 @@
 <h1 align="center">Customer Recommendation Project</h1>
 
 
+https://share.streamlit.io/enesbol/streamlitrepo/main/HousePrice.py
 
 ## Description
 -This project is a part of K136. Kodluyoruz & Istanbul Metropolitan Municipality Data Science Bootcamp.The model is trying to estimate the house prices related to users choices.
@@ -34,4 +35,3 @@ The dataset is available at [Kaggle](https://www.kaggle.com/c/house-prices-advan
 * Ömer Batuhan Özbay - [Github](https://github.com/kakan18) - [LinkedIn](https://www.linkedin.com/in/omerbatuhanozbay)
 
 
-https://share.streamlit.io/enesbol/streamlitrepo/main/HousePrice.py
